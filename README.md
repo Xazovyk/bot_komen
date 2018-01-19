@@ -1,1 +1,1 @@
-# bot_komen
+# bot_komen buat file "msg.txt" 
